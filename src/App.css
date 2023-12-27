@@ -1,0 +1,27 @@
+.passwordGenrator {
+    border: 1px solid black;
+    width: 500px;
+    height: 200px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin: auto;
+}
+
+.inputs {
+    display: flex;
+    margin: 10px;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+}
+
+.pass input {
+    width: 25rem;
+    padding: 2px;
+}
+
+.pass button {
+    padding: 2px;
+}
